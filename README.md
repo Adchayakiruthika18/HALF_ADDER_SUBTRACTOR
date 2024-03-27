@@ -55,9 +55,9 @@ Program to design a half adder and full adder circuit and verify its truth table
 Developed by: Adchayakiruthika M S
 
 RegisterNumber: 212223230005
-```
-**Half Adder**
 
+**Half Adder**
+```
 module half_adder(a,b,sum,carry);
 input a,b;
 output sum,carry; 
